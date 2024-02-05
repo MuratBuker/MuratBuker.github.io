@@ -1,6 +1,7 @@
+
 ---
 tittle: Using Jekyll For a Mark Down Blog !
-date: today
+date: 2024-02-05 12:00:00 -500
 categories: [homelab, website, blog, markdown]
 tags: [markdown, vs code, kubernetes, nginix]
 ---
